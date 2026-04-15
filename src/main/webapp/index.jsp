@@ -12,7 +12,7 @@
 	crossorigin="anonymous">
 </head>
 <body>
-	<h2>Welcome To Student Management APP</h2>
+	<h2>WECOME TO STUDENT MANAGEMENT APPLICATION</h2>
 	<a href="students">Go to Student Management</a>
 	<br>
 	<table class="table">
